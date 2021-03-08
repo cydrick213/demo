@@ -19,5 +19,9 @@
     { "id": 17, "date": "2021/04/05", "value": 900 },
     { "id": 18, "date": "2021/04/05", "value": 950 },
     { "id": 19, "date": "2021/04/05", "value": 1000 }
-  ]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
